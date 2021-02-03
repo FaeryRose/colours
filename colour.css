@@ -1,0 +1,28 @@
+body {
+     background-image: url(https://images.unsplash.com/photo-1609709572105-e4b3d2bedda8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80);
+}
+p {
+     font-family: arial, sans serif, serif;
+     font-size: x-large;
+     text-align: center;
+}
+h1 {
+     color: orange;
+     text-align: center;
+     
+}
+.one {
+    color: #000000;
+}
+.two {
+    color: #1A1A1A;
+}
+.three {
+    color: #4C2E1A;
+}
+.four {
+    color: #734526;
+}
+.five {
+    color: #9B5C31;  
+}
